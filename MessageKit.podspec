@@ -22,6 +22,6 @@ Pod::Spec.new do |s|
 
    s.requires_arc = true
 
-   s.dependency 'InputBarAccessoryView', :git => 'https://github.com/nathantannar4/InputBarAccessoryView.git', :branch => 'master'
+   s.dependency 'InputBarAccessoryView', :git => 'https://github.com/exceptioncatcher91/MessageInputBar.git'
 
 end
